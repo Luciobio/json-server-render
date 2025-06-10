@@ -458,6 +458,51 @@
       "status": "active",
       "age": 35,
       "id": "b00819b0-70ae-4291-aa74-2c89bf4b993a"
+    },
+    {
+      "username": "mark_s",
+      "email": "mark.scout@lumon.com",
+      "name": "Mark",
+      "lastname": "Scout",
+      "status": "active",
+      "age": 40,
+      "id": "a1f4c218-92fb-4e18-b5b4-d24a5a2fcd10"
+    },
+    {
+      "username": "helly_r",
+      "email": "helly.rigs@lumon.com",
+      "name": "Helly",
+      "lastname": "Rigs",
+      "status": "active",
+      "age": 30,
+      "id": "3b2ae1a7-85a2-49cf-b30b-f874b7a79983"
+    },
+    {
+      "username": "petey_k",
+      "email": "peter.kilmer@lumon.com",
+      "name": "Peter",
+      "lastname": "Kilmer",
+      "status": "inactive",
+      "age":  35,
+      "id": "62e9cb1f-1386-4982-b235-5b4c4e99e34c"
+    },
+    {
+      "username": "dylan_g",
+      "email": "dylan.george@lumon.com",
+      "name": "Dylan",
+      "lastname": "George",
+      "status": "active",
+      "age": 28,
+      "id": "d2a64dc9-0f2c-4b79-85f4-e0c2a0be0a12"
+    },
+    {
+      "username": "irving_b",
+      "email": "irving.bailiff@lumon.com",
+      "name": "Irving",
+      "lastname": "Bailiff",
+      "status": "inactive",
+      "age": 50,
+      "id": "4c70d8e4-e733-4bcf-902b-bd6f1c8a66fb"
     }
   ]
 }
